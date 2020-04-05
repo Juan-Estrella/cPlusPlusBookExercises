@@ -1,3 +1,5 @@
+//ch 3, q3, ph 112
+//converts lattude coordinates to decimal notation
 #include <iostream>
 using namespace std;
 
